@@ -11,7 +11,7 @@ public class Triangle extends Shape{
 		this.width = width;
 		this.height = height;
 	}
-	
+	 
 	//메서드 gs
 	
 	//메서드 일반

@@ -1,7 +1,13 @@
 package com.javaex.ex06;
 
 public class Base {
-
+	
+	//생성자
+	public Base() {
+		super();
+	}
+	
+	//메서드 일반
     public void service(String state) {
 
         if (state.equals("낮")) { //문자열의 같다(==) 는 equals()를 사용합니다.
